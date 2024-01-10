@@ -1,0 +1,14 @@
+D:\Projetos\A&D\MegaSena\MegaSena\bin\Debug\net6.0\MegaSena.exe
+D:\Projetos\A&D\MegaSena\MegaSena\bin\Debug\net6.0\MegaSena.deps.json
+D:\Projetos\A&D\MegaSena\MegaSena\bin\Debug\net6.0\MegaSena.runtimeconfig.json
+D:\Projetos\A&D\MegaSena\MegaSena\bin\Debug\net6.0\MegaSena.dll
+D:\Projetos\A&D\MegaSena\MegaSena\bin\Debug\net6.0\MegaSena.pdb
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\MegaSena.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\MegaSena.AssemblyInfoInputs.cache
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\MegaSena.AssemblyInfo.cs
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\MegaSena.csproj.CoreCompileInputs.cache
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\MegaSena.dll
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\refint\MegaSena.dll
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\MegaSena.pdb
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\MegaSena.genruntimeconfig.cache
+D:\Projetos\A&D\MegaSena\MegaSena\obj\Debug\net6.0\ref\MegaSena.dll
